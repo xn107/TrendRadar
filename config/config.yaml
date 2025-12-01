@@ -115,4 +115,8 @@ platforms:
   # === 其他/工具类 ===
   - id: "chongbuluo"
     name: "虫部落"
+  - id: "bilibili-hot-search"
+    name: "bilibili 热搜"
+  - id: "thepaper"
+    name: "澎湃新闻"
     
